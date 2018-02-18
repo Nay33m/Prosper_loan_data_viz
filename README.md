@@ -16,4 +16,4 @@ borrower income, and many others. The dataset and data-dictionary can be found a
 
 ### Summary
 In peer-to-peer lending, there are three main stakeholders: borrowers, lenders and the company itself.
-![](screenshots/number_of_listings.png)
+![screenshot](screenshots/number_of_listings.png)
