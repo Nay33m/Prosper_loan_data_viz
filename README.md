@@ -2,6 +2,7 @@
 This repository contains the analysis and visualisations I have created in Tableau.
 
 ## Prosper Loan Data Visualisation
+The final version of this visualisation can be found [here](https://public.tableau.com/profile/sian.nadin#!/vizhome/Prosperloandata-Version2/ProsperLoandata-Version2)
 
 ### About
 Prosper is a peer-to-peer lending platform that aims to connect people who need
@@ -15,5 +16,6 @@ borrower income, and many others. The dataset and data-dictionary can be found a
 [Udacity hosted dataset dataset](https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv)
 
 ### Summary
-In peer-to-peer lending, there are three main stakeholders: borrowers, lenders and the company itself.
+In peer-to-peer lending, there are three main stakeholders: borrowers, lenders and the company itself. In my Tableau story I have done exploration on the relationship between these people, what affects borrowers Prosper Score and who defaults the most.
+
 ![screenshot](screenshots/number_of_listings.png)
