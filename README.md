@@ -2,7 +2,7 @@
 This repository contains the analysis and visualisations I have created in Tableau.
 
 ## Prosper Loan Data Visualisation
-The final version of this visualisation can be found [here](https://public.tableau.com/profile/sian.nadin#!/vizhome/Prosperloandata-Version2/ProsperLoandata-Version2)
+The final version of this visualisation can be found [here](https://public.tableau.com/profile/sian.nadin#!/vizhome/Prosperloandata-Version2/Version2)
 
 ### About
 Prosper is a peer-to-peer lending platform that aims to connect people who need money with those people who have the money to invest. In this data analysis project,
